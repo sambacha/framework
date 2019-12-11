@@ -418,7 +418,6 @@
     },
     "@rush-temp/cli": {
       "version": "file:projects/cli.tgz",
-      "integrity": "sha512-6JpGSq0+S6LyzmaX9aErmbY8hFAq8zFXXNYkwmE/2UX7EquNwjKARA0ffkkD/YPMUuqcseeBnM9PfFmxsYAGSQ==",
       "requires": {
         "@hayspec/reporter": "0.9.0",
         "@types/inquirer": "0.0.43",
@@ -436,7 +435,6 @@
     },
     "@rush-temp/compiler": {
       "version": "file:projects/compiler.tgz",
-      "integrity": "sha512-7CggXn7HmHMlx3yxk2fbPDREMCJ39eQpkNffATIi+GOpucadIa/Zk5jfgLyzdmRUgoeNjg7HIKPOi2NK4mH5hg==",
       "requires": {
         "@0xcert/ethereum-utils-contracts": "0.0.0-alpha",
         "@hayspec/reporter": "0.9.0",
@@ -453,7 +451,6 @@
     },
     "@rush-temp/flattener": {
       "version": "file:projects/flattener.tgz",
-      "integrity": "sha512-kR3ULEgxjrG2sNIvZS0Xs6ddxN17WkoDWY1nOPELvSVKnqq5FrJHCYjWmy/lQTsXRNCIhthn3gU0nVn2lroh8A==",
       "requires": {
         "@0xcert/ethereum-utils-contracts": "0.0.0-alpha",
         "@hayspec/reporter": "0.9.0",
@@ -469,7 +466,6 @@
     },
     "@rush-temp/init": {
       "version": "file:projects/init.tgz",
-      "integrity": "sha512-SvKW+2Xza9jJ/W4vMIGRTVoNQh9V4QPKGLoHhy2XXbcbZDZ+D62oO9NaJe1dqBwKX1uH85/QOb3rwQ5m0TmZHA==",
       "requires": {
         "@types/fs-extra": "8.0.0",
         "@types/node": "12.7.8",
@@ -482,7 +478,6 @@
     },
     "@rush-temp/sandbox": {
       "version": "file:projects/sandbox.tgz",
-      "integrity": "sha512-s709wmbdElAlf3YvykSQ/CgAlNW7URx/H9tw90LmSTg9+SuMsKeLyxdIDQFHYgBLmeCinW3HmStsTI2XpFFOwA==",
       "requires": {
         "@types/node": "12.7.8",
         "@types/supertest": "2.0.8",
@@ -497,7 +492,6 @@
     },
     "@rush-temp/spec": {
       "version": "file:projects/spec.tgz",
-      "integrity": "sha512-G22oJDSaEjT1lBelhio8YH5nmqyeXPhe9P8/ZvVZfoPnEoKVJvzsD3vsxm/lhMgur+2d5LljxGfiX3CuZoDmHw==",
       "requires": {
         "@0xcert/ethereum-utils": "1.1.0",
         "@hayspec/reporter": "0.9.0",
@@ -513,7 +507,6 @@
     },
     "@rush-temp/specron-example": {
       "version": "file:projects/specron-example.tgz",
-      "integrity": "sha512-hDE+miGjHgBVbssXwBvjOy4Si80vykTga/G/c0kBm/0SzFzRTg7T0FbhAyPkSxuAHcOzyuLYjzhi2JldQkAvQg==",
       "requires": {
         "solc": "^0.4.25",
         "solidity-coverage": "^0.6.7",
