@@ -497,7 +497,7 @@
     },
     "@rush-temp/spec": {
       "version": "file:projects/spec.tgz",
-      "integrity": "sha512-/+yto9cfNxbt8g4A16hchVv6sOWlAjOhF4WSwFdZ8llbdbFaVpMlNo5mJ5ZlNsxS+oMdCPySuuPh8w2bBgN8dg==",
+      "integrity": "sha512-G22oJDSaEjT1lBelhio8YH5nmqyeXPhe9P8/ZvVZfoPnEoKVJvzsD3vsxm/lhMgur+2d5LljxGfiX3CuZoDmHw==",
       "requires": {
         "@0xcert/ethereum-utils": "1.1.0",
         "@hayspec/reporter": "0.9.0",
