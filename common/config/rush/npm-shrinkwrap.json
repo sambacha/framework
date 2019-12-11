@@ -513,7 +513,7 @@
     },
     "@rush-temp/specron-example": {
       "version": "file:projects/specron-example.tgz",
-      "integrity": "sha512-hWkWsLEWhHUI+dqsMjWsKJqd4KXu6LhuqEZQvkZhNjt06JH2R1WCjpJtIBGZ4HQDSx6Lu/AYtCmlgwhu+nIYfg==",
+      "integrity": "sha512-hDE+miGjHgBVbssXwBvjOy4Si80vykTga/G/c0kBm/0SzFzRTg7T0FbhAyPkSxuAHcOzyuLYjzhi2JldQkAvQg==",
       "requires": {
         "solc": "^0.4.25",
         "solidity-coverage": "^0.6.7",
