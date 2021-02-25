@@ -29,6 +29,7 @@ test('method `getConfig` returns package.json specron configuration', async (t) 
       port: 8545,
       match: ['./src/**/*.hay.*'],
       blockTime: null,
+      coverage: false,
     },
     require: ['ts-node/register'],
   });
@@ -68,6 +69,7 @@ test('method `getConfig` merges received configuration', async (t) => {
       port: 100,
       match: ['foo'],
       blockTime: 1,
+      coverage: false,
     },
     require: ['bar'],
   });
