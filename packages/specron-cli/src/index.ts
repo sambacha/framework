@@ -89,6 +89,10 @@ const { argv } = yargs
     .option('blockTime', {
       number: true,
       description: 'Seconds for automatic mining',
+    })
+    .option('coverage', {
+      boolean: false,
+      description: 'Test against code-coverage enabled web3 provider',
     }),
     testHandler)
   .epilog('Copyright © Xpepermint 2018.')
